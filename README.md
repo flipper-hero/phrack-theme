@@ -94,6 +94,30 @@ The generator checks native dimensions, glyphs, text bounds, and the firmware's
 255-frame timeline limit. CI verifies bitmap round-trips, archive reproducibility,
 metadata, and preview consistency. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## A small tribute
+
+This pack is a thank-you to [Phrack](https://phrack.org) and everyone who writes,
+edits, reviews, publishes, and preserves the magazine. Behind every issue are
+people putting time, curiosity, and hard-won knowledge into something others can
+learn from. That work has a way of staying with you.
+
+For me, it comes back to one afternoon:
+
+> I was taking a C course at a German Berufsschule when Aleph One's
+> [Smashing the Stack for Fun and Profit](https://phrack.org/issues/49/smashing-the-stack-for-fun-and-profit_md.html#article)
+> came out. Three buddies and I were huddled over a printout when one of our two
+> programming teachers came over, expecting us to be up to no good. We handed him
+> the paper. He was completely blown away too.
+>
+> We spent the rest of the class going through it with him, while the other
+> teacher had to teach twenty-odd kids who didn't really give a damn. Four curious
+> students, one curious teacher, and a printout. I still remember it all these
+> years later.
+
+*[Franz Bettag](https://github.com/fbettag), Flipper Hero*
+
+Read the magazine. Follow the references. Keep being curious.
+
 ## License and provenance
 
 Artwork, content configuration, previews, and generated packs are dedicated under
