@@ -1,0 +1,2 @@
+Pillow==12.3.0
+heatshrink2==0.14.0

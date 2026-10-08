@@ -1,0 +1,60 @@
+{
+  "license": "CC0-1.0",
+  "width": 128,
+  "height": 64,
+  "frame_rate": 10,
+  "manifest": {
+    "min_butthurt": 0,
+    "max_butthurt": 18,
+    "min_level": 1,
+    "max_level": 30,
+    "weight": 5
+  },
+  "screens": [
+    {
+      "name": "Phrack_Magazine",
+      "source": "magazine",
+      "cycles_per_entry": 2,
+      "entries": [
+        "# ./SMASH_STACK",
+        "# ./0DAY.PL",
+        "# ./OVERFLOW",
+        "# ./ROOT_SHELL"
+      ]
+    },
+    {
+      "name": "Phrack_Articles",
+      "heading": "ARTICLES",
+      "cycles_per_entry": 4,
+      "entries": [
+        "HACKER'S MANIFESTO",
+        "SMASHING THE STACK",
+        "TCP PORT STEALTH SCAN",
+        "PROJECT LOKI",
+        "PROJECT HADES",
+        "CGI VULNERABILITIES",
+        "TROJAN HORSES IN UNIX",
+        "HACKING RSTS PT 1",
+        "TELEPHONY + PBX",
+        "PROPHILE: MUDGE"
+      ]
+    },
+    {
+      "name": "Phrack_Prophile",
+      "heading": "PROPHILE",
+      "cycles_per_entry": 4,
+      "entries": [
+        "KNIGHT LIGHTNING",
+        "TARAN KING",
+        "DATASTREAM COWBOY",
+        "THE MENTOR",
+        "ERIK BLOODAXE",
+        "ALEPH1",
+        "DAEMON9",
+        "ROUTE",
+        "VOYAGER",
+        "MUDGE"
+      ]
+    }
+  ]
+}
